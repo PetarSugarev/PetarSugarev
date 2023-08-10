@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @PetarSugarev
+- 👋 Hi, I’m Petar Sugarev
 - 👀 I’m interested in system administration, web servers, hardware and many more.
 - 🌱 I’m currently learning java application servers.
-- 💞️ I’m looking to collaborate on interesting projects
+- 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me https://www.linkedin.com/in/petar-sugarev-5311b1b9/
 
 <!---
